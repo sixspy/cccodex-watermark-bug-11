@@ -1,0 +1,12 @@
+{
+  "label": "watermark-bug-11",
+  "port": 7600,
+  "login_url": "http://127.0.0.1:7600/login",
+  "http_status": 200,
+  "checks": [
+    "含登录相关文案",
+    "含密码表单线索"
+  ],
+  "passed": true,
+  "checked_at": "2026-11-18T19:23:07+08:00"
+}
